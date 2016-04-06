@@ -1,0 +1,71 @@
+[W 23:43:50.204 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 23:43:50.204 NotebookApp] The port 8080 is already in use, trying another random port.
+[I 23:43:50.209 NotebookApp] Serving notebooks from local directory: /home/subhas/notebooks
+[I 23:43:50.209 NotebookApp] 0 active kernels 
+[I 23:43:50.209 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:8081/
+[I 23:43:50.209 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 23:45:25.172 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 23:45:25.177 NotebookApp] Serving notebooks from local directory: /home/subhas/notebooks
+[I 23:45:25.177 NotebookApp] 0 active kernels 
+[I 23:45:25.177 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:8080/
+[I 23:45:25.177 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 23:45:25.394 NotebookApp] 404 GET /api/kernels/c90a78cf-5792-4ab7-a4f3-a6c0e414949d/channels?session_id=8C2888F1400E40168238FDC6779C4680 (192.168.1.120): Kernel does not exist: c90a78cf-5792-4ab7-a4f3-a6c0e414949d
+[W 23:45:25.465 NotebookApp] 404 GET /api/kernels/c90a78cf-5792-4ab7-a4f3-a6c0e414949d/channels?session_id=8C2888F1400E40168238FDC6779C4680 (192.168.1.120) 112.76ms referer=None
+[W 23:45:29.170 NotebookApp] 404 GET /api/kernels/0a4ccddd-5686-4688-862e-37e1bfbe1003/channels?session_id=9055D554ACC74EED861DF2254D3A06CD (192.168.1.120): Kernel does not exist: 0a4ccddd-5686-4688-862e-37e1bfbe1003
+[W 23:45:29.173 NotebookApp] 404 GET /api/kernels/0a4ccddd-5686-4688-862e-37e1bfbe1003/channels?session_id=9055D554ACC74EED861DF2254D3A06CD (192.168.1.120) 15.14ms referer=None
+[W 23:45:34.156 NotebookApp] Notebook TestNotebook.ipynb is not trusted
+[I 23:45:34.560 NotebookApp] Kernel started: 6b7e5504-4b99-4b72-b4a9-de0579c38e7f
+[W 23:45:47.169 NotebookApp] 404 GET /api/kernels/0a4ccddd-5686-4688-862e-37e1bfbe1003/channels?session_id=9055D554ACC74EED861DF2254D3A06CD (192.168.1.120): Kernel does not exist: 0a4ccddd-5686-4688-862e-37e1bfbe1003
+[W 23:45:47.173 NotebookApp] 404 GET /api/kernels/0a4ccddd-5686-4688-862e-37e1bfbe1003/channels?session_id=9055D554ACC74EED861DF2254D3A06CD (192.168.1.120) 15.48ms referer=None
+[W 23:46:08.335 NotebookApp] Notebook TestNotebook.ipynb is not trusted
+[I 23:46:13.372 NotebookApp] Kernel started: 71de80f3-3b63-4551-9169-f1c30250fdc6
+[I 23:48:09.186 NotebookApp] Saving file at /TestNotebook.ipynb
+[W 23:48:09.188 NotebookApp] Saving untrusted notebook TestNotebook.ipynb
+[I 23:48:14.192 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 23:50:54.207 NotebookApp] 302 GET / (46.174.191.28) 1.27ms
+[I 01:28:54.184 NotebookApp] 302 POST /login?next=%252Ftree (192.168.1.108) 2.59ms
+[I 01:28:54.249 NotebookApp] 302 GET / (192.168.1.108) 1.01ms
+[W 01:29:05.159 NotebookApp] Notebook TestNotebook.ipynb is not trusted
+[W 01:30:39.798 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 05:48:58.679 NotebookApp] 404 GET http://www.google.com/reader/about/ (91.236.75.4) 4.22ms referer=None
+[W 14:26:02.352 NotebookApp] 404 GET http://www.qunar.com/ (123.59.59.52) 3.58ms referer=None
+[W 04:50:19.312 NotebookApp] 404 GET http://dhg.pisz.pl/httptest.php (188.68.224.62) 3.99ms referer=None
+[W 05:03:33.038 NotebookApp] 404 GET http://dhg.pisz.pl/httptest.php (188.68.224.62) 5.49ms referer=None
+[W 07:01:17.643 NotebookApp] 404 GET http://dhg.pisz.pl/httptest.php (188.68.224.62) 4.44ms referer=None
+[W 07:27:27.364 NotebookApp] 404 GET http://dhg.pisz.pl/httptest.php (188.68.224.62) 4.12ms referer=None
+[W 08:02:42.127 NotebookApp] 404 GET http://www.mafengwo.cn/ (123.59.59.52) 4.30ms referer=None
+[I 08:16:14.543 NotebookApp] Saving file at /K-near neigbors.ipynb
+[W 08:17:06.992 NotebookApp] 404 GET http://www.google.com/reader/about/ (91.236.75.4) 4.21ms referer=None
+[I 08:18:14.529 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 08:20:14.527 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 08:30:15.359 NotebookApp] Saving file at /K-near neigbors.ipynb
+[W 17:50:45.785 NotebookApp] 404 GET /index.php (101.227.244.52) 4.11ms referer=http://71.36.164.77:8080/index.php
+[W 01:11:42.099 NotebookApp] 404 GET http://testp3.pospr.waw.pl/testproxy.php (94.185.83.100) 4.19ms referer=None
+[I 02:07:33.484 NotebookApp] Saving file at /K-near neigbors.ipynb
+[W 05:17:34.921 NotebookApp] 404 GET http://www.google.com/reader/about/ (91.236.75.4) 4.48ms referer=None
+[W 19:32:28.906 NotebookApp] 405 HEAD / (180.43.40.178) 1.32ms referer=None
+[W 05:25:18.563 NotebookApp] 404 GET http://www.google.com/reader/about/ (91.236.75.4) 4.30ms referer=None
+[I 10:05:57.796 NotebookApp] 302 GET / (213.128.81.66) 1.22ms
+[W 11:51:48.595 NotebookApp] 404 GET /tmUnblock.cgi (201.132.12.45) 4.15ms referer=None
+[I 11:51:52.025 NotebookApp] 302 GET / (201.132.12.45) 1.27ms
+[W 14:15:38.083 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.78.38) 4.06ms referer=None
+[W 16:46:17.196 NotebookApp] 404 GET http://www.google.com/reader/about/ (91.236.75.4) 4.00ms referer=None
+[W 18:17:19.032 NotebookApp] 404 POST http://45.33.125.170/4bfb2a4e2c35123160cd2c5d326413d9/cgi/test (45.79.200.35) 4.35ms referer=None
+[I 20:03:34.602 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 20:05:34.592 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 20:07:34.825 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 22:55:28.357 NotebookApp] 302 GET / (169.54.233.125) 1.23ms
+[W 00:59:41.425 NotebookApp] 404 GET /tmUnblock.cgi (201.172.202.185) 4.20ms referer=None
+[I 00:59:44.685 NotebookApp] 302 GET / (201.172.202.185) 1.08ms
+[W 07:54:34.614 NotebookApp] 404 GET /manager/html (200.91.115.91) 4.38ms referer=None
+[I 22:41:35.540 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 22:43:35.535 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 22:45:35.542 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 22:47:35.521 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 22:49:36.481 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 22:51:35.762 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 22:53:35.561 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 22:55:35.527 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 22:57:35.530 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 23:05:35.544 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 23:07:35.536 NotebookApp] Saving file at /K-near neigbors.ipynb
