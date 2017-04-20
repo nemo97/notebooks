@@ -69,3 +69,162 @@
 [I 22:57:35.530 NotebookApp] Saving file at /K-near neigbors.ipynb
 [I 23:05:35.544 NotebookApp] Saving file at /K-near neigbors.ipynb
 [I 23:07:35.536 NotebookApp] Saving file at /K-near neigbors.ipynb
+[I 22:31:17.612 NotebookApp] [nb_conda_kernels] enabled, 2 kernels found
+[I 22:31:17.617 NotebookApp] Writing notebook server cookie secret to C:\Users\Administrator\AppData\Roaming\jupyter\runtime\notebook_cookie_secret
+[I 22:31:23.516 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 22:31:23.516 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named nbbrowserpdf.exporters.pdf
+[I 22:31:23.698 NotebookApp] [nb_conda] enabled
+[I 22:31:28.512 NotebookApp] [nb_anacondacloud] enabled
+[I 22:31:28.825 NotebookApp] Serving notebooks from local directory: C:\dev_tools\python_notebooks
+[I 22:31:28.825 NotebookApp] 0 active kernels 
+[I 22:31:28.825 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/
+[I 22:31:28.825 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 22:32:46.528 NotebookApp] Writing notebook-signing key to C:\Users\Administrator\AppData\Roaming\jupyter\notebook_secret
+[W 22:32:46.535 NotebookApp] Notebook kevin_logistic_sklearn.ipynb is not trusted
+[I 22:32:48.030 NotebookApp] Kernel started: 0464c714-6ace-48a4-b272-6fee7c7831cf
+[I 22:34:48.441 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[W 22:34:48.444 NotebookApp] Saving untrusted notebook kevin_logistic_sklearn.ipynb
+[W 22:35:50.773 NotebookApp] Notebook kevin_logistic_sklearn.ipynb is not trusted
+[I 22:39:51.628 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[W 22:39:51.628 NotebookApp] Saving untrusted notebook kevin_logistic_sklearn.ipynb
+[I 22:40:14.219 NotebookApp] Kernel shutdown: 0464c714-6ace-48a4-b272-6fee7c7831cf
+[W 22:40:35.108 NotebookApp] Notebook kevin_logistic_sklearn.ipynb is not trusted
+[I 22:40:36.035 NotebookApp] Kernel started: c5d73e56-43a4-408a-adaa-12afa1f8873f
+[I 22:42:36.059 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[W 22:42:36.059 NotebookApp] Saving untrusted notebook kevin_logistic_sklearn.ipynb
+[I 22:48:36.069 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[W 22:48:36.069 NotebookApp] Saving untrusted notebook kevin_logistic_sklearn.ipynb
+[I 22:50:36.062 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[W 22:50:36.062 NotebookApp] Saving untrusted notebook kevin_logistic_sklearn.ipynb
+[I 22:52:36.430 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[W 22:52:36.433 NotebookApp] Saving untrusted notebook kevin_logistic_sklearn.ipynb
+[I 22:54:36.430 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[W 22:54:36.433 NotebookApp] Saving untrusted notebook kevin_logistic_sklearn.ipynb
+[I 23:02:36.068 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[W 23:02:36.071 NotebookApp] Saving untrusted notebook kevin_logistic_sklearn.ipynb
+[I 23:04:36.450 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[W 23:04:36.451 NotebookApp] Saving untrusted notebook kevin_logistic_sklearn.ipynb
+[I 23:22:36.095 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[W 23:22:36.098 NotebookApp] Saving untrusted notebook kevin_logistic_sklearn.ipynb
+[I 23:24:36.463 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[W 23:24:36.464 NotebookApp] Saving untrusted notebook kevin_logistic_sklearn.ipynb
+[I 23:30:36.085 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[W 23:30:36.085 NotebookApp] Saving untrusted notebook kevin_logistic_sklearn.ipynb
+[I 23:32:36.095 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[W 23:32:36.098 NotebookApp] Saving untrusted notebook kevin_logistic_sklearn.ipynb
+[W 08:17:35.986 NotebookApp] Notebook TestNotebook.ipynb is not trusted
+[I 08:17:36.240 NotebookApp] Kernel started: b2f00129-a1e4-4426-9917-ea3253a7d3fd
+[I 08:19:36.994 NotebookApp] Saving file at /TestNotebook.ipynb
+[W 08:19:36.996 NotebookApp] Saving untrusted notebook TestNotebook.ipynb
+[I 08:21:36.240 NotebookApp] Saving file at /TestNotebook.ipynb
+[W 08:21:36.240 NotebookApp] Saving untrusted notebook TestNotebook.ipynb
+[I 18:26:37.609 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[W 18:26:37.611 NotebookApp] Saving untrusted notebook kevin_logistic_sklearn.ipynb
+[I 21:57:37.058 NotebookApp] Saving file at /TestNotebook.ipynb
+[W 21:57:37.058 NotebookApp] Saving untrusted notebook TestNotebook.ipynb
+[I 21:59:37.042 NotebookApp] Saving file at /TestNotebook.ipynb
+[W 21:59:37.059 NotebookApp] Saving untrusted notebook TestNotebook.ipynb
+[I 22:01:37.779 NotebookApp] Saving file at /TestNotebook.ipynb
+[W 22:01:37.796 NotebookApp] Saving untrusted notebook TestNotebook.ipynb
+[I 22:03:37.039 NotebookApp] Saving file at /TestNotebook.ipynb
+[W 22:03:37.042 NotebookApp] Saving untrusted notebook TestNotebook.ipynb
+[I 22:05:37.049 NotebookApp] Saving file at /TestNotebook.ipynb
+[W 22:05:37.049 NotebookApp] Saving untrusted notebook TestNotebook.ipynb
+[I 22:06:37.437 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[W 22:06:37.437 NotebookApp] Saving untrusted notebook kevin_logistic_sklearn.ipynb
+[I 22:07:37.790 NotebookApp] Saving file at /TestNotebook.ipynb
+[W 22:07:37.805 NotebookApp] Saving untrusted notebook TestNotebook.ipynb
+[I 22:08:37.499 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[I 22:10:37.443 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+tput: terminal attributes: No such device or address
+
+[I 22:12:37.436 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[I 22:14:37.831 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[I 18:02:11.015 NotebookApp] Kernel shutdown: c5d73e56-43a4-408a-adaa-12afa1f8873f
+[I 18:02:13.167 NotebookApp] Kernel shutdown: b2f00129-a1e4-4426-9917-ea3253a7d3fd
+[W 18:30:22.934 NotebookApp] [nb_conda] JSON parse fail:
+    Extra data: line 1 column 11 - line 446 column 2 (char 10 - 14123)
+[E 18:30:23.012 NotebookApp] Unhandled error in API request
+    Traceback (most recent call last):
+      File "C:\Anaconda2\lib\site-packages\notebook\base\handlers.py", line 457, in wrapper
+        name = path.rsplit('/', 1)[-1]
+      File "C:\Anaconda2\lib\site-packages\nb_conda\handlers.py", line 138, in post
+        resp = self.env_manager.update_packages(env, packages)
+      File "C:\Anaconda2\lib\site-packages\nb_conda\envmanager.py", line 159, in update_packages
+        return self.clean_conda_json(output)
+      File "C:\Anaconda2\lib\site-packages\nb_conda\envmanager.py", line 92, in clean_conda_json
+        lines = [line for line in lines if re.match(JSONISH_RE)]
+    TypeError: match() takes at least 2 arguments (1 given)
+[E 18:30:23.105 NotebookApp] {
+      "Origin": "http://localhost:8888", 
+      "Content-Length": "0", 
+      "Accept-Language": "en-US,en;q=0.8", 
+      "Accept-Encoding": "gzip, deflate, br", 
+      "Host": "localhost:8888", 
+      "Accept": "application/json, text/javascript, */*; q=0.01", 
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36", 
+      "Connection": "keep-alive", 
+      "X-Requested-With": "XMLHttpRequest", 
+      "Referer": "http://localhost:8888/tree"
+    }
+[E 18:30:23.105 NotebookApp] 500 POST /conda/environments/root/packages/update (::1) 1651841.00ms referer=http://localhost:8888/tree
+[I 18:45:45.426 NotebookApp] [nb_conda_kernels] enabled, 2 kernels found
+[I 18:45:45.551 NotebookApp] The port 8888 is already in use, trying another port.
+[I 18:45:45.566 NotebookApp] The port 8889 is already in use, trying another port.
+[I 18:45:48.558 NotebookApp] [nb_anacondacloud] enabled
+[I 18:45:48.703 NotebookApp] [nb_conda] enabled
+[I 18:45:50.266 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 18:45:50.266 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named nbbrowserpdf.exporters.pdf
+[I 18:45:50.940 NotebookApp] Serving notebooks from local directory: C:\dev_tools\python_notebooks
+[I 18:45:50.940 NotebookApp] 0 active kernels 
+[I 18:45:50.940 NotebookApp] The Jupyter Notebook is running at: http://localhost:8890/?token=3a662498ecf6e2f7cbae505f7e62eb35278831d325ab5846
+[I 18:45:50.940 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 18:45:50.940 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8890/?token=3a662498ecf6e2f7cbae505f7e62eb35278831d325ab5846
+[I 18:45:51.400 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[E 22:07:37.019 NotebookApp] Unhandled error in API request
+    Traceback (most recent call last):
+      File "C:\Anaconda2\lib\site-packages\notebook\base\handlers.py", line 503, in wrapper
+        result = yield gen.maybe_future(method(self, *args, **kwargs))
+      File "C:\Anaconda2\lib\site-packages\nb_conda\handlers.py", line 62, in get
+        self.finish(json.dumps(self.env_manager.env_packages(env)))
+      File "C:\Anaconda2\lib\site-packages\nb_conda\envmanager.py", line 124, in env_packages
+        "packages": [pkg_info(package) for package in data]
+      File "C:\Anaconda2\lib\site-packages\nb_conda\envmanager.py", line 16, in pkg_info
+        name, version, build = s.rsplit('-', 2)
+    AttributeError: 'dict' object has no attribute 'rsplit'
+[E 22:07:37.194 NotebookApp] {
+      "Accept-Language": "en-US,en;q=0.8", 
+      "Accept-Encoding": "gzip, deflate, sdch, br", 
+      "X-Requested-With": "XMLHttpRequest", 
+      "Host": "localhost:8890", 
+      "Accept": "application/json, text/javascript, */*; q=0.01", 
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36", 
+      "Connection": "keep-alive", 
+      "Referer": "http://localhost:8890/tree?token=2e830ce7c90d0f23b0696fdca06ca77c21687f2ff267586d", 
+      "Cookie": "_xsrf=2|29d62896|13d48d65ade699c50947523db2535fcc|1492652751; username-localhost-8890=\"2|1:0|10:1492652751|23:username-localhost-8890|44:MjVlMTliMDc4ZmU0NDgzZDgwYWI0MDk5MTMxMjI5YTY=|cdc28f5c87b9950a391658c996b1bcf3646710913daf38c2ff95b5dd12c707d5\""
+    }
+[E 22:07:37.194 NotebookApp] 500 GET /conda/environments/root?_=1492652752139 (::1) 1532.00ms referer=http://localhost:8890/tree?token=2e830ce7c90d0f23b0696fdca06ca77c21687f2ff267586d
+[I 22:07:54.467 NotebookApp] Creating new notebook in 
+[I 22:07:57.980 NotebookApp] Kernel started: cf58ce5f-2876-40d9-b5e5-9974eb332047
+[W 22:08:14.529 NotebookApp] Notebook TestNotebook.ipynb is not trusted
+[I 22:08:14.940 NotebookApp] Kernel started: dcebff75-e13b-4ca8-9c0c-7bb93a67eeb8
+[I 22:09:57.194 NotebookApp] Saving file at /MySelf.ipynb
+[I 22:10:15.203 NotebookApp] Saving file at /TestNotebook.ipynb
+[W 22:10:15.203 NotebookApp] Saving untrusted notebook TestNotebook.ipynb
+[I 22:11:05.759 NotebookApp] Kernel started: 1f33cb65-f41c-47d0-9edd-2788a7154af8
+[I 22:11:58.209 NotebookApp] Saving file at /MySelf.ipynb
+[I 22:13:05.793 NotebookApp] Saving file at /kevin_logistic_sklearn.ipynb
+[I 22:13:57.200 NotebookApp] Saving file at /MySelf.ipynb
+[I 22:15:57.213 NotebookApp] Saving file at /MySelf.ipynb
+[I 22:17:58.186 NotebookApp] Saving file at /MySelf.ipynb
+[I 22:29:58.239 NotebookApp] Saving file at /MySelf.ipynb
+[I 22:41:57.230 NotebookApp] Saving file at /MySelf.ipynb
+[I 22:43:57.237 NotebookApp] Saving file at /MySelf.ipynb
+[I 22:45:57.457 NotebookApp] Saving file at /MySelf.ipynb
+[I 22:47:57.243 NotebookApp] Saving file at /MySelf.ipynb
+[I 22:49:57.232 NotebookApp] Saving file at /MySelf.ipynb
+[I 22:53:59.105 NotebookApp] Saving file at /MySelf.ipynb
