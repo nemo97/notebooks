@@ -228,3 +228,22 @@ tput: terminal attributes: No such device or address
 [I 22:47:57.243 NotebookApp] Saving file at /MySelf.ipynb
 [I 22:49:57.232 NotebookApp] Saving file at /MySelf.ipynb
 [I 22:53:59.105 NotebookApp] Saving file at /MySelf.ipynb
+[W 22:55:37.614 NotebookApp] Notebook Linear Reg.ipynb is not trusted
+[I 22:55:38.128 NotebookApp] Kernel started: 84a5dcca-a570-4b00-83e0-77afacfc57b5
+[I 22:55:58.247 NotebookApp] Saving file at /MySelf.ipynb
+[I 22:57:38.253 NotebookApp] Saving file at /Linear Reg.ipynb
+[W 22:57:38.255 NotebookApp] Saving untrusted notebook Linear Reg.ipynb
+[I 22:57:57.262 NotebookApp] Saving file at /MySelf.ipynb
+[I 22:59:57.266 NotebookApp] Saving file at /MySelf.ipynb
+[I 23:01:57.267 NotebookApp] Saving file at /MySelf.ipynb
+[I 23:16:49.086 NotebookApp] Saving file at /MySelf.ipynb
+[I 23:19:57.528 NotebookApp] Saving file at /MySelf.ipynb
+[I 23:21:57.263 NotebookApp] Saving file at /MySelf.ipynb
+[I 23:23:57.312 NotebookApp] Saving file at /MySelf.ipynb
+[I 23:25:57.273 NotebookApp] Saving file at /MySelf.ipynb
+[I 23:31:57.316 NotebookApp] Saving file at /MySelf.ipynb
+[I 23:33:57.269 NotebookApp] Saving file at /MySelf.ipynb
+[I 23:35:57.290 NotebookApp] Saving file at /MySelf.ipynb
+[I 23:37:58.354 NotebookApp] Saving file at /MySelf.ipynb
+[I 23:39:57.293 NotebookApp] Saving file at /MySelf.ipynb
+[I 23:41:58.266 NotebookApp] Saving file at /MySelf.ipynb
