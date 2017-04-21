@@ -247,3 +247,10 @@ tput: terminal attributes: No such device or address
 [I 23:37:58.354 NotebookApp] Saving file at /MySelf.ipynb
 [I 23:39:57.293 NotebookApp] Saving file at /MySelf.ipynb
 [I 23:41:58.266 NotebookApp] Saving file at /MySelf.ipynb
+[I 08:07:57.779 NotebookApp] Saving file at /MySelf.ipynb
+[I 08:09:58.786 NotebookApp] Saving file at /MySelf.ipynb
+tput: terminal attributes: No such device or address
+
+[I 22:51:39.500 NotebookApp] Saving file at /Linear Reg.ipynb
+[I 22:53:39.457 NotebookApp] Saving file at /Linear Reg.ipynb
+[I 22:55:39.627 NotebookApp] Saving file at /Linear Reg.ipynb
